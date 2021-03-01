@@ -1,6 +1,4 @@
 # Placement-Management-System
-# Placement-Management-System
-
 
 C:.
 ¦   config.php
