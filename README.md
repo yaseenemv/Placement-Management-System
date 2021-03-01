@@ -1,4 +1,46 @@
 # Placement-Management-System
+
+Note it : This project is not fully completed  but you can use this project for your own purposes 
+
+
+Author : ## Yaseen Emv
+
+Project Name : Placement management system 
+
+Modules : Admin, Company, College, Students
+
+Contributors are welcome!
+
+ ```
+Login information
+Admin login information:
+
+Mail: yaseenemv@emv.com
+Password: yaseenemv@emv.com
+
+Company  login information
+
+Mail: jojo@emv.com
+Password: jojo@emv.com
+
+College login information
+
+Mail: Krishna@emv.com
+Password: Krishna@emv.com
+
+Student login information
+
+Mail: albin@emv.com
+Password: albin@emv.com
+ ```
+
+# Requirement
+Download any web server on your computer such as wamp, xampp ...etc
+import demo.sql file into your database (MySQL)
+
+The MySQL password and username must be root
+
+
  ```
 ¦   index.php
 ¦   login.php
