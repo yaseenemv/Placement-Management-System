@@ -60,34 +60,22 @@ C:.
 ¦   ¦   ¦   +---admin
 ¦   ¦   ¦   ¦   +---assets
 ¦   ¦   ¦   ¦       +---fonts
-¦   ¦   ¦   ¦               themify.eot
-¦   ¦   ¦   ¦               themify.svg
-¦   ¦   ¦   ¦               themify.ttf
-¦   ¦   ¦   ¦               themify.woff
+¦   ¦   ¦   ¦             
 ¦   ¦   ¦   ¦
 ¦   ¦   ¦   +---lib
-¦   ¦   ¦       ¦   bootstrap.min.css
-¦   ¦   ¦       ¦   font-awesome.min.css
-¦   ¦   ¦       ¦   jquery-ui.min.css
-¦   ¦   ¦       ¦   mmc-chat.css
-¦   ¦   ¦       ¦   owl.carousel.min.css
-¦   ¦   ¦       ¦   owl.theme.default.min.css
-¦   ¦   ¦       ¦   themify-icons.css
-¦   ¦   ¦       ¦   unix.css
-¦   ¦   ¦       ¦   weather-icons.css
+¦   ¦   ¦       ¦  
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---barRating
-¦   ¦   ¦       ¦       barRating.css
+¦   ¦   ¦       ¦    
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---calendar
-¦   ¦   ¦       ¦       fullcalendar.css
+¦   ¦   ¦       ¦       
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---calendar2
-¦   ¦   ¦       ¦       pignose.calendar.min.css
-¦   ¦   ¦       ¦       semantic.ui.min.css
+¦   ¦   ¦       ¦       
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---chartist
-¦   ¦   ¦       ¦       chartist.min.css
+¦   ¦   ¦       ¦    
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---data-table
 ¦   ¦   ¦       ¦       buttons.bootstrap.min.css
@@ -114,13 +102,7 @@ C:.
 ¦   ¦   ¦       ¦       pace.css
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---rangSlider
-¦   ¦   ¦       ¦       ion.rangeSlider.css
-¦   ¦   ¦       ¦       ion.rangeSlider.skinFlat.css
-¦   ¦   ¦       ¦       ion.rangeSlider.skinHTML5.css
-¦   ¦   ¦       ¦       ion.rangeSlider.skinModern.css
-¦   ¦   ¦       ¦       ion.rangeSlider.skinNice.css
-¦   ¦   ¦       ¦       ion.rangeSlider.skinSimple.css
-¦   ¦   ¦       ¦       normalize.css
+¦   ¦   ¦       ¦       
 ¦   ¦   ¦       ¦
 ¦   ¦   ¦       +---scrollable
 ¦   ¦   ¦       ¦       scrollable.min.css
@@ -135,104 +117,24 @@ C:.
 ¦   ¦   ¦               jqvmap.min.css
 ¦   ¦   ¦
 ¦   ¦   +---fonts
-¦   ¦   ¦   ¦   fontawesome-webfont.eot
-¦   ¦   ¦   ¦   fontawesome-webfont.svg
-¦   ¦   ¦   ¦   fontawesome-webfont.ttf
-¦   ¦   ¦   ¦   fontawesome-webfont.woff
-¦   ¦   ¦   ¦   fontawesome-webfont.woff2
-¦   ¦   ¦   ¦   FontAwesome.otf
-¦   ¦   ¦   ¦   glyphicons-halflings-regular.eot
-¦   ¦   ¦   ¦   glyphicons-halflings-regular.svg
-¦   ¦   ¦   ¦   glyphicons-halflings-regular.ttf
-¦   ¦   ¦   ¦   glyphicons-halflings-regular.woff
-¦   ¦   ¦   ¦   glyphicons-halflings-regular.woff2
-¦   ¦   ¦   ¦   MontserratLight.eot
-¦   ¦   ¦   ¦   MontserratLight.svg
-¦   ¦   ¦   ¦   MontserratLight.ttf
-¦   ¦   ¦   ¦   MontserratLight.woff
-¦   ¦   ¦   ¦   MontserratLight.woff2
-¦   ¦   ¦   ¦   themify.eot
-¦   ¦   ¦   ¦   themify.svg
-¦   ¦   ¦   ¦   themify.ttf
-¦   ¦   ¦   ¦   themify.woff
-¦   ¦   ¦   ¦   weathericons-regular-webfont.eot
-¦   ¦   ¦   ¦   weathericons-regular-webfont.svg
-¦   ¦   ¦   ¦   weathericons-regular-webfont.ttf
-¦   ¦   ¦   ¦   weathericons-regular-webfont.woff
-¦   ¦   ¦   ¦   weathericons-regular-webfont.woff2
+¦   ¦   ¦   ¦   
 ¦   ¦   ¦   ¦
 ¦   ¦   ¦   +---fontawesome-webfont_files
 ¦   ¦   ¦           viewsource.css
 ¦   ¦   ¦
 ¦   ¦   +---images
-¦   ¦   ¦   ¦   1.png
-¦   ¦   ¦   ¦   2.png
-¦   ¦   ¦   ¦   3.jpg
-¦   ¦   ¦   ¦   3.png
-¦   ¦   ¦   ¦   4.jpg
-¦   ¦   ¦   ¦   avatar.png
-¦   ¦   ¦   ¦   chat-person-add.png
-¦   ¦   ¦   ¦   close.png
-¦   ¦   ¦   ¦   fjords.jpg
-¦   ¦   ¦   ¦   hand.jpg
-¦   ¦   ¦   ¦   lights.jpg
-¦   ¦   ¦   ¦   logo.png
-¦   ¦   ¦   ¦   maximize.png
-¦   ¦   ¦   ¦   minimize.png
-¦   ¦   ¦   ¦   nature.jpg
-¦   ¦   ¦   ¦   newyork.jpg
-¦   ¦   ¦   ¦   paris.jpg
-¦   ¦   ¦   ¦   paypal.png
-¦   ¦   ¦   ¦   picture.png
-¦   ¦   ¦   ¦   preview1.png
-¦   ¦   ¦   ¦   product-2.jpg
-¦   ¦   ¦   ¦   product.jpg
-¦   ¦   ¦   ¦   product.png
-¦   ¦   ¦   ¦   profile-bg.jpg
-¦   ¦   ¦   ¦   sanfran.jpg
-¦   ¦   ¦   ¦   smile.png
-¦   ¦   ¦   ¦   user-1.png
-¦   ¦   ¦   ¦   user-bg.jpg
-¦   ¦   ¦   ¦   user-female.png
-¦   ¦   ¦   ¦   user-profile.jpg
-¦   ¦   ¦   ¦   user.jpg
-¦   ¦   ¦   ¦   video-cam.png
-¦   ¦   ¦   ¦   watch.jpg
-¦   ¦   ¦   ¦
+¦   ¦   ¦   ¦  
 ¦   ¦   ¦   +---avatar
-¦   ¦   ¦   ¦       1.jpg
-¦   ¦   ¦   ¦       2.jpg
-¦   ¦   ¦   ¦       3.jpg
-¦   ¦   ¦   ¦       usa-flag.png
+¦   ¦   ¦   ¦      
 ¦   ¦   ¦   ¦
 ¦   ¦   ¦   +---bookingSystem
-¦   ¦   ¦   ¦       1.png
-¦   ¦   ¦   ¦       2.png
-¦   ¦   ¦   ¦       3.png
-¦   ¦   ¦   ¦       4.png
-¦   ¦   ¦   ¦       5.png
-¦   ¦   ¦   ¦       6.png
-¦   ¦   ¦   ¦       7.png
-¦   ¦   ¦   ¦       8.png
+¦   ¦   ¦   ¦       
 ¦   ¦   ¦   ¦
 ¦   ¦   ¦   +---product_1
-¦   ¦   ¦   ¦       1.jpg
-¦   ¦   ¦   ¦       2.jpg
-¦   ¦   ¦   ¦       3.jpg
-¦   ¦   ¦   ¦       burger.jpg
-¦   ¦   ¦   ¦       download.jpg
-¦   ¦   ¦   ¦       image-10.jpg
-¦   ¦   ¦   ¦       image-8-226x223.jpg
-¦   ¦   ¦   ¦       image-9.jpg
-¦   ¦   ¦   ¦       images.jpg
-¦   ¦   ¦   ¦       pizza2.jpg
+¦   ¦   ¦   ¦     
 ¦   ¦   ¦   ¦
 ¦   ¦   ¦   +---rangeSliderimg
-¦   ¦   ¦   ¦       sprite-skin-flat.png
-¦   ¦   ¦   ¦       sprite-skin-modern.png
-¦   ¦   ¦   ¦       sprite-skin-nice.png
-¦   ¦   ¦   ¦       sprite-skin-simple.png
-¦   ¦   ¦   ¦
+¦   ¦   ¦   ¦      
 ¦   ¦   ¦   +---scrollable
 ¦   ¦   ¦           view-1-1200x800.jpg
 ¦   ¦   ¦
@@ -389,58 +291,31 @@ C:.
 ¦   ¦           ¦       pace.min.js
 ¦   ¦           ¦
 ¦   ¦           +---rangeSlider
-¦   ¦           ¦       ion.rangeSlider.min.js
-¦   ¦           ¦       moment-with-locales.js
-¦   ¦           ¦       moment.js
-¦   ¦           ¦       rangeslider.init.js
+¦   ¦           ¦    
 ¦   ¦           ¦
 ¦   ¦           +---rating1
-¦   ¦           ¦       jRate.init.js
-¦   ¦           ¦       jRate.min.js
+¦   ¦           ¦       
 ¦   ¦           ¦
 ¦   ¦           +---scrollable
-¦   ¦           ¦       holder.js
-¦   ¦           ¦       jquery-asScrollable.min.js
-¦   ¦           ¦       jquery-asScrollbar.js
-¦   ¦           ¦       scrollable.init.js
+¦   ¦           ¦      
 ¦   ¦           ¦
 ¦   ¦           +---sparklinechart
-¦   ¦           ¦       jquery.sparkline.min.js
-¦   ¦           ¦       sparkline.init.js
+¦   ¦           ¦       
 ¦   ¦           ¦
 ¦   ¦           +---sweetalert
-¦   ¦           ¦       sweetalert.init.js
-¦   ¦           ¦       sweetalert.min.js
-¦   ¦           ¦
+¦   ¦           ¦       
 ¦   ¦           +---toastr
-¦   ¦           ¦       toastr.init.js
-¦   ¦           ¦       toastr.min.js
+¦   ¦           ¦      
 ¦   ¦           ¦
 ¦   ¦           +---vector-map
-¦   ¦           ¦   ¦   jquery.vmap.js
-¦   ¦           ¦   ¦   jquery.vmap.min.js
-¦   ¦           ¦   ¦   jquery.vmap.sampledata.js
-¦   ¦           ¦   ¦   vector.init.js
+¦   ¦           ¦   ¦   
 ¦   ¦           ¦   ¦
 ¦   ¦           ¦   +---country
-¦   ¦           ¦           jquery.vmap.algeria.js
-¦   ¦           ¦           jquery.vmap.argentina.js
-¦   ¦           ¦           jquery.vmap.brazil.js
-¦   ¦           ¦           jquery.vmap.europe.js
-¦   ¦           ¦           jquery.vmap.france.js
-¦   ¦           ¦           jquery.vmap.germany.js
-¦   ¦           ¦           jquery.vmap.greece.js
-¦   ¦           ¦           jquery.vmap.iran.js
-¦   ¦           ¦           jquery.vmap.iraq.js
-¦   ¦           ¦           jquery.vmap.russia.js
-¦   ¦           ¦           jquery.vmap.tunisia.js
-¦   ¦           ¦           jquery.vmap.turkey.js
-¦   ¦           ¦           jquery.vmap.usa.js
-¦   ¦           ¦           jquery.vmap.world.js
+¦   ¦           ¦           
+¦   ¦           ¦          
 ¦   ¦           ¦
 ¦   ¦           +---weather
-¦   ¦                   jquery.simpleWeather.min.js
-¦   ¦                   weather-init.js
+¦   ¦                 
 ¦   ¦
 ¦   +---collage
 ¦   ¦   ¦   add_student.php
