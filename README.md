@@ -29,8 +29,8 @@ Password: jojo@emv.com
 
 College login information
 
-Mail: Krishna@emv.com
-Password: Krishna@emv.com
+Mail: krishna@emv.com
+Password: krishna@emv.com
 
 Student login information
 
