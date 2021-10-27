@@ -13,6 +13,8 @@ Project Name : Placement management system
 
 Modules : Admin, Company, College, Students
 
+Demo And Installation https://www.youtube.com/watch?v=Eg-C6euCWPU
+
 Contributors are welcome!
 
  ```
